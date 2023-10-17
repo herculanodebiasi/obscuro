@@ -1,0 +1,5 @@
+cat horizon.sc pittsburgh.sc | ./banks
+cat mountains.sc bb.sc | ./banks
+cat mountains.sc river.sc pyramids.sc | ./banks
+
+./banks < /dev/null
